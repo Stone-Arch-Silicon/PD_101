@@ -1,0 +1,5 @@
+variant,run_id,period_ns,util_percent,cell_area_um2,core_area_um2,setup_slack_ns,setup_corner,hold_slack_ns,hold_corner,drc,lvs,runtime_s,notes
+u30_t20,,20,30,,,,,,,NOT RUN,NOT RUN,,
+u50_t20,,20,50,,,,,,,NOT RUN,NOT RUN,,
+u30_t30,,30,30,,,,,,,NOT RUN,NOT RUN,,
+u50_t30,,30,50,,,,,,,NOT RUN,NOT RUN,,
